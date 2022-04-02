@@ -5,5 +5,5 @@ project(lists)
 
 # add the executable
 add_executable(lists main.cc
-    List.hpp Node.cc)
+    List.hpp Node.hpp)
 
